@@ -54,7 +54,7 @@ To run the project locally:
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 You can deploy this static site to any static hosting provider, such as:
 - [Vercel](https://vercel.com/)
@@ -65,14 +65,14 @@ You can deploy this static site to any static hosting provider, such as:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and new AI tool submissions are welcome!  
 Feel free to open an issue or pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
