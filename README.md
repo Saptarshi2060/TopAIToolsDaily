@@ -1,35 +1,36 @@
 # TopAIToolsDaily
 
-A curated collection of **200+ AI platforms and tools** for productivity, creativity, development, marketing, research, and more.  
-Discover, search, and filter the best AI tools for your needs!
+**TopAIToolsDaily** is a curated collection of over **200 AI platforms and tools** across various domains including productivity, creativity, development, marketing, research, and more. This project serves as a centralized, searchable, and filterable directory to help users discover the most effective AI solutions tailored to their needs.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **Search & Filter:** Quickly find AI tools by category, name, or tags.
-- 🏷️ **Categories:** Text, Image, Audio, Video, Chatbots, Productivity, Marketing, Research, and more.
-- 🌐 **Direct Links:** Visit official sites for each tool.
-- ⭐ **Ratings & Tags:** See ratings and relevant tags for every tool.
-- 🆕 **Regularly Updated:** Always growing with the latest AI platforms.
-
----
-
-## 🖥️ Tech Stack
-
-- **Frontend:** [React](https://react.dev/) + [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Data:** Static JSON/TS data file
+- **Search and Filter** – Easily locate AI tools by name, category, or relevant tags.
+- **Category Organization** – Tools are categorized into domains such as Text, Image, Audio, Video, Chatbots, Productivity, Marketing, Research, and others.
+- **Direct Access** – Includes direct links to the official websites of each listed tool.
+- **Tags and Ratings** – Displays relevant tags and ratings to assist in quick evaluation.
+- **Regular Updates** – The collection is continuously updated to include the latest AI tools.
 
 ---
 
-## 📦 Getting Started
+## Tech Stack
 
-1. **Clone the repository:**
-   ```sh
+- **Frontend**: [React](https://react.dev/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Data Management**: Static JSON/TypeScript data files
+
+---
+
+## Getting Started
+
+To run the project locally:
+
+1. **Clone the repository**
+   ```bash
    git clone https://github.com/Saptarshi2060/TopAIToolsDaily.git
    cd TopAIToolsDaily
-   ```
+
 
 2. **Install dependencies:**
    ```sh
