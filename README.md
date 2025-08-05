@@ -78,7 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
-
-- Inspired by the rapid growth of AI tools and the need for a single, searchable directory.
-- Built with ❤️ by [Saptarshi2060](https://github.com/Saptarshi2060).
